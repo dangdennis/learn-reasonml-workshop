@@ -1,5 +1,5 @@
-/*
-  Hello,
+
+/* Hello,
 
   Reason is not a new language. It is syntactic sugar for the OCaml language
   created in 1996. The new Reason syntax will look familiar to those who have
@@ -32,6 +32,5 @@
 
   *Note:* Use `Ctrl-d` to exit the rtop session.
 
-  Try these out and move on to the next exercise!
- */
-let () = print_endline("Hello, World!);
+  Try these out and move on to the next exercise! */
+let () = print_endline("Hello, World!");
